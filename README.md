@@ -34,4 +34,4 @@ The loss progress during training is visualized. The model is evaluated using me
 The model achieves a coefficient of determination (R²) of 71.69%, indicating its ability to explain 71.69% of the variance in the dependent variable based on the included independent variables.
 
 ## Contact Information
-For any queries or feedback, please contact me trought my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)
+For any queries or feedback, please contact me through my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)
